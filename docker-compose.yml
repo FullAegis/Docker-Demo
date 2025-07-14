@@ -1,0 +1,65 @@
+version: '3.8'
+
+services:
+  # Container 1: ASP.NET Core API
+  api:
+    build:
+      context: ./api
+      dockerfile: Dockerfile
+    ports:
+      - "8081:8080" # Maps container port 8080 to host port 8081
+    environment:
+      - DB_HOST=db
+      - DB_NAME=DemoDB
+      - DB_SA_PASSWORD=${MSSQL_SA_PASSWORD} # Use password from .env file
+      - ASPNETCORE_URLS=http://+:8080
+    depends_on:
+      - db
+    networks:
+      - app-network
+
+  # Container 2: MS SQL Server Database
+  db:
+    image: "mcr.microsoft.com/mssql/server:2022-latest"
+    environment:
+      ACCEPT_EULA: "Y"
+      MSSQL_SA_PASSWORD: "${MSSQL_SA_PASSWORD}" # It's best practice to use a .env file for secrets
+    ports:
+      - "1433:1433" # Maps container port 1433 to host port 1433
+    volumes:
+      - db_data:/var/opt/mssql/data
+      - db_logs:/var/opt/mssql/log
+    networks:
+      - app-network
+
+  # Container 3: Angular Front-end
+  client:
+    build:
+      context: ./client
+      dockerfile: Dockerfile
+    ports:
+      - "4200:80" # Maps container port 80 (nginx) to host port 4200
+    depends_on:
+      - api
+    networks:
+      - app-network
+
+# Define networks
+networks:
+  app-network:
+    driver: bridge
+
+# Define named volumes for data persistence
+volumes:
+  db_data:
+    driver: local
+    driver_opts:
+      type: 'none'
+      o: 'bind'
+      device: '~/DOCKER_FULLSTACK_DEMO/DemoDb/data'
+  db_logs:
+    driver: local
+    driver_opts:
+      type: 'none'
+      o: 'bind'
+      device: '~/DOCKER_FULLSTACK_DEMO/DemoDb/logs'

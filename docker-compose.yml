@@ -23,9 +23,9 @@ services:
     image: "mcr.microsoft.com/mssql/server:2022-latest"
     environment:
       ACCEPT_EULA: "Y"
-      MSSQL_SA_PASSWORD: "${MSSQL_SA_PASSWORD}" # It's best practice to use a .env file for secrets
+      MSSQL_SA_PASSWORD: "${MSSQL_SA_PASSWORD}"
     ports:
-      - "1433:1433" # Maps container port 1433 to host port 1433
+      - "1433:1433"
     volumes:
       - db_data:/var/opt/mssql/data
       - db_logs:/var/opt/mssql/log
@@ -38,7 +38,7 @@ services:
       context: ./client
       dockerfile: Dockerfile
     ports:
-      - "4200:80" # Maps container port 80 (nginx) to host port 4200
+      - "4200:80"
     depends_on:
       - api
     networks:

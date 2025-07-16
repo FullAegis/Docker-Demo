@@ -1,0 +1,26 @@
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.DAL/bin/Debug/net9.0/Candy.DAL.deps.json
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.DAL/bin/Debug/net9.0/Candy.DAL.dll
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.DAL/bin/Debug/net9.0/Candy.DAL.pdb
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.DAL/obj/Debug/net9.0/Candy.DAL.csproj.AssemblyReference.cache
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.DAL/obj/Debug/net9.0/Candy.DAL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.DAL/obj/Debug/net9.0/Candy.DAL.AssemblyInfoInputs.cache
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.DAL/obj/Debug/net9.0/Candy.DAL.AssemblyInfo.cs
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.DAL/obj/Debug/net9.0/Candy.DAL.csproj.CoreCompileInputs.cache
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.DAL/obj/Debug/net9.0/Candy.DAL.sourcelink.json
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.DAL/obj/Debug/net9.0/Candy.DAL.dll
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.DAL/obj/Debug/net9.0/refint/Candy.DAL.dll
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.DAL/obj/Debug/net9.0/Candy.DAL.pdb
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.DAL/obj/Debug/net9.0/ref/Candy.DAL.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.DAL/bin/Debug/net9.0/Candy.DAL.deps.json
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.DAL/bin/Debug/net9.0/Candy.DAL.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.DAL/bin/Debug/net9.0/Candy.DAL.pdb
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.DAL/obj/Debug/net9.0/Candy.DAL.csproj.AssemblyReference.cache
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.DAL/obj/Debug/net9.0/Candy.DAL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.DAL/obj/Debug/net9.0/Candy.DAL.AssemblyInfoInputs.cache
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.DAL/obj/Debug/net9.0/Candy.DAL.AssemblyInfo.cs
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.DAL/obj/Debug/net9.0/Candy.DAL.csproj.CoreCompileInputs.cache
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.DAL/obj/Debug/net9.0/Candy.DAL.sourcelink.json
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.DAL/obj/Debug/net9.0/Candy.DAL.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.DAL/obj/Debug/net9.0/refint/Candy.DAL.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.DAL/obj/Debug/net9.0/Candy.DAL.pdb
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.DAL/obj/Debug/net9.0/ref/Candy.DAL.dll

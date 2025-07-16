@@ -12,6 +12,7 @@ ENV ASPNETCORE_URLS=http://+:8000
 
 # This stage is used to build the service project
 FROM mcr.microsoft.com/dotnet/sdk:9.0-alpine AS build
+ARG PUBLISH_CONFIGURATION=Release
 ARG BUILD_CONFIGURATION=Release
 ARG DOTNET_SKIP_POLICY_LOADING=true
 #endregion
@@ -42,8 +43,7 @@ RUN dotnet build "./Candy.API/Candy.API.csproj" -c $BUILD_CONFIGURATION -o /app/
 
 #region PUBLISH
 FROM build AS publish
-ARG BUILD_CONFIGURATION=Release
-RUN dotnet publish "./Candy.API/Candy.API.csproj" -c $BUILD_CONFIGURATION -o /app/publish /p:UseAppHost=false
+RUN dotnet publish "./Candy.API/Candy.API.csproj" -c $PUBLISH_CONFIGURATION -o /app/publish /p:UseAppHost=false
 #endregion
 
 #region HEALTHCHECK

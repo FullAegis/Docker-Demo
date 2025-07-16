@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "mrDCnOmIzIw57IuKZ2wpbx7+11JEvnBqQ5S8gYkFQ6Y=",
+  "Source": "Candy.API",
+  "BasePath": "_content/Candy.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

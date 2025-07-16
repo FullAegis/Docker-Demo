@@ -1,0 +1,350 @@
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/appsettings.Development.json
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/appsettings.json
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/Candy.API.staticwebassets.endpoints.json
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/Candy.API
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/Candy.API.deps.json
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/Candy.API.runtimeconfig.json
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/Candy.API.dll
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/Candy.API.pdb
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/Azure.Core.dll
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/Azure.Identity.dll
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/BCrypt.Net-Core.dll
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/Humanizer.dll
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/Microsoft.Build.Locator.dll
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/Microsoft.CodeAnalysis.dll
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/Microsoft.Data.SqlClient.dll
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.dll
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/Microsoft.Extensions.DependencyModel.dll
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/Microsoft.Extensions.Logging.dll
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/Microsoft.Extensions.Options.dll
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/Microsoft.Extensions.Primitives.dll
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/Microsoft.Identity.Client.dll
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/Microsoft.IdentityModel.Logging.dll
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.dll
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/Microsoft.IdentityModel.Tokens.dll
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/Microsoft.OpenApi.dll
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/Microsoft.SqlServer.Server.dll
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/Microsoft.Win32.SystemEvents.dll
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/Mono.TextTemplating.dll
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/System.ClientModel.dll
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/System.CodeDom.dll
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/System.Composition.AttributedModel.dll
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/System.Composition.Convention.dll
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/System.Composition.Hosting.dll
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/System.Composition.Runtime.dll
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/System.Composition.TypedParts.dll
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/System.Configuration.ConfigurationManager.dll
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/System.Drawing.Common.dll
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/System.Formats.Asn1.dll
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/System.Memory.Data.dll
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/System.Runtime.Caching.dll
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/System.Security.Cryptography.ProtectedData.dll
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/System.Security.Permissions.dll
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/System.Text.Json.dll
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/System.Windows.Extensions.dll
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/Candy.BLL.dll
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/Candy.DAL.dll
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/Candy.BLL.pdb
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/bin/Debug/net9.0/Candy.DAL.pdb
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/obj/Debug/net9.0/Candy.API.csproj.AssemblyReference.cache
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/obj/Debug/net9.0/Candy.API.GeneratedMSBuildEditorConfig.editorconfig
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/obj/Debug/net9.0/Candy.API.AssemblyInfoInputs.cache
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/obj/Debug/net9.0/Candy.API.AssemblyInfo.cs
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/obj/Debug/net9.0/Candy.API.csproj.CoreCompileInputs.cache
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/obj/Debug/net9.0/Candy.API.MvcApplicationPartsAssemblyInfo.cs
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/obj/Debug/net9.0/Candy.API.MvcApplicationPartsAssemblyInfo.cache
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/obj/Debug/net9.0/Candy.API.sourcelink.json
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/obj/Debug/net9.0/scopedcss/bundle/Candy.API.styles.css
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/obj/Debug/net9.0/staticwebassets.build.json
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/obj/Debug/net9.0/staticwebassets.development.json
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/obj/Debug/net9.0/staticwebassets/msbuild.Candy.API.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/obj/Debug/net9.0/staticwebassets/msbuild.Candy.API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/obj/Debug/net9.0/staticwebassets/msbuild.build.Candy.API.props
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.Candy.API.props
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.Candy.API.props
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/obj/Debug/net9.0/staticwebassets.pack.json
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/obj/Debug/net9.0/Candy.API.csproj.Up2Date
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/obj/Debug/net9.0/Candy.API.dll
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/obj/Debug/net9.0/refint/Candy.API.dll
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/obj/Debug/net9.0/Candy.API.pdb
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/obj/Debug/net9.0/Candy.API.genruntimeconfig.cache
+/Users/College/Documents/Cours/Techofutur TIC/Laboratoire Front-End Angular/Candy/Candy.API/obj/Debug/net9.0/ref/Candy.API.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/appsettings.Development.json
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/Candy.API.staticwebassets.endpoints.json
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/appsettings.json
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/Candy.API
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/Candy.API.deps.json
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/Candy.API.runtimeconfig.json
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/Candy.API.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/Candy.API.pdb
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/Azure.Core.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/Azure.Identity.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/BCrypt.Net-Core.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/Humanizer.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/Microsoft.Build.Locator.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/Microsoft.CodeAnalysis.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/Microsoft.Data.SqlClient.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/Microsoft.Extensions.DependencyModel.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/Microsoft.Extensions.Logging.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/Microsoft.Extensions.Options.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/Microsoft.Extensions.Primitives.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/Microsoft.Identity.Client.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/Microsoft.IdentityModel.Logging.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/Microsoft.IdentityModel.Tokens.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/Microsoft.OpenApi.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/Microsoft.SqlServer.Server.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/Microsoft.Win32.SystemEvents.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/Mono.TextTemplating.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/System.ClientModel.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/System.CodeDom.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/System.Composition.AttributedModel.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/System.Composition.Convention.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/System.Composition.Hosting.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/System.Composition.Runtime.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/System.Composition.TypedParts.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/System.Configuration.ConfigurationManager.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/System.Drawing.Common.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/System.Formats.Asn1.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/System.Memory.Data.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/System.Runtime.Caching.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/System.Security.Cryptography.ProtectedData.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/System.Security.Permissions.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/System.Text.Json.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/System.Windows.Extensions.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/Candy.BLL.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/Candy.DAL.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/Candy.BLL.pdb
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/bin/Debug/net9.0/Candy.DAL.pdb
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/obj/Debug/net9.0/Candy.API.csproj.AssemblyReference.cache
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/obj/Debug/net9.0/Candy.API.GeneratedMSBuildEditorConfig.editorconfig
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/obj/Debug/net9.0/Candy.API.AssemblyInfoInputs.cache
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/obj/Debug/net9.0/Candy.API.AssemblyInfo.cs
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/obj/Debug/net9.0/Candy.API.csproj.CoreCompileInputs.cache
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/obj/Debug/net9.0/Candy.API.MvcApplicationPartsAssemblyInfo.cs
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/obj/Debug/net9.0/Candy.API.MvcApplicationPartsAssemblyInfo.cache
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/obj/Debug/net9.0/Candy.API.sourcelink.json
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/obj/Debug/net9.0/scopedcss/bundle/Candy.API.styles.css
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/obj/Debug/net9.0/staticwebassets.build.json
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/obj/Debug/net9.0/staticwebassets.development.json
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/obj/Debug/net9.0/staticwebassets/msbuild.Candy.API.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/obj/Debug/net9.0/staticwebassets/msbuild.Candy.API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/obj/Debug/net9.0/staticwebassets/msbuild.build.Candy.API.props
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.Candy.API.props
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.Candy.API.props
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/obj/Debug/net9.0/staticwebassets.pack.json
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/obj/Debug/net9.0/Candy.API.csproj.Up2Date
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/obj/Debug/net9.0/Candy.API.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/obj/Debug/net9.0/refint/Candy.API.dll
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/obj/Debug/net9.0/Candy.API.pdb
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/obj/Debug/net9.0/Candy.API.genruntimeconfig.cache
+/Users/College/Documents/Cours/Techofutur TIC/docker/DOCKER_FULLSTACK_DEMO/api/CandyStore/Candy.API/obj/Debug/net9.0/ref/Candy.API.dll

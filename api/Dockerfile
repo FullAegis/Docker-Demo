@@ -20,4 +20,4 @@ COPY --from=build /app/publish .
 EXPOSE 8080
 
 # Entry point to run the application
-ENTRYPOINT ["dotnet", "FullstackDockerDemo.dll"]
+ENTRYPOINT ["dotnet", "Candy.API.dll"]

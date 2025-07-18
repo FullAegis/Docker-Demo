@@ -15,7 +15,7 @@ RUN npm run build -- --configuration production
 # Stage 2: Serve the application with NGINX
 FROM nginx:alpine
 # Copy the built artifacts from the 'build' stage
-COPY --from=build /usr/src/app/dist/FullstackDockerDemo /usr/share/nginx/html
+COPY --from=build /usr/src/app/dist/candy-frontend /usr/share/nginx/html
 
 # Expose port 80 
 EXPOSE 80

@@ -56,10 +56,10 @@ volumes:
     driver_opts:
       type: 'none'
       o: 'bind'
-      device: '~/DOCKER_FULLSTACK_DEMO/DemoDb/data'
+      device: '~/DOCKER_FULLSTACK_DEMO/database/data'
   db_logs:
     driver: local
     driver_opts:
       type: 'none'
       o: 'bind'
-      device: '~/DOCKER_FULLSTACK_DEMO/DemoDb/logs'
+      device: '~/DOCKER_FULLSTACK_DEMO/database/logs'

@@ -1,0 +1,36 @@
+<div class="order-history-container">
+  <h2>Your Order History</h2>
+
+  <ng-container *ngIf="orders$ | async as orders; else loading">
+    <div *ngIf="orders.length > 0; else noOrders" class="orders-list">
+      <div class="order-item header">
+        <div class="order-id">Order ID</div>
+        <div class="order-date">Date</div>
+        <div class="order-total">Total</div>
+        <div class="order-status">Status</div>
+        <div class="order-actions">Details</div>
+      </div>
+      <div *ngFor="let order of orders" class="order-item">
+        <div class="order-id">#{{ order.id.substring(0, 8) }}...</div> <!-- Shorten ID for display -->
+        <div class="order-date">{{ order.orderDate | date:'mediumDate' }}</div>
+        <div class="order-total">{{ order.totalAmount | currency:'USD' }}</div>
+        <div class="order-status status-{{ order.status | lowercase }}">
+            {{ order.status }}
+        </div>
+        <div class="order-actions">
+          <!-- Link to a future OrderDetailComponent or admin order detail view -->
+          <!-- For now, this could be disabled or link to a placeholder -->
+          <a [routerLink]="['/orders', order.id]" class="details-link">View Details</a>
+          <!-- Need to define '/orders/:id' route and component later -->
+        </div>
+      </div>
+    </div>
+    <ng-template #noOrders>
+      <p>You have no past orders. <a routerLink="/products">Start shopping!</a></p>
+    </ng-template>
+  </ng-container>
+
+  <ng-template #loading>
+    <p>Loading order history...</p>
+  </ng-template>
+</div>

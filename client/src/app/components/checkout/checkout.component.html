@@ -1,0 +1,74 @@
+<div class="checkout-container">
+  <h2>Checkout</h2>
+
+  <div class="checkout-content" *ngIf="cart$ | async as cart; else loadingCart">
+    <div class="order-summary" *ngIf="cart.items.length > 0; else emptyCart">
+      <h3>Order Summary</h3>
+      <ul>
+        <li *ngFor="let item of cart.items">
+          {{ item.name }} ({{ item.quantity }} x {{ item.price | currency:'USD' }})
+          <span>{{ (item.quantity * item.price) | currency:'USD' }}</span>
+        </li>
+      </ul>
+      <p>Subtotal: <strong>{{ cart.subtotal | currency:'USD' }}</strong></p>
+      <p>Tax: <strong>{{ cart.tax | currency:'USD' }}</strong></p>
+      <p class="grand-total">Grand Total: <strong>{{ cart.grandTotal | currency:'USD' }}</strong></p>
+    </div>
+    <ng-template #emptyCart>
+      <p>Your cart is empty. <a routerLink="/products">Add items to your cart</a> before proceeding to checkout.</p>
+    </ng-template>
+
+    <div class="shipping-form" *ngIf="cart.items.length > 0">
+      <h3>Shipping Address</h3>
+      <form [formGroup]="checkoutForm" (ngSubmit)="onSubmit()">
+        <div>
+          <label for="fullName">Full Name:</label>
+          <input type="text" id="fullName" formControlName="fullName">
+          <div *ngIf="formControls['fullName'].touched && formControls['fullName'].errors?.['required']" class="error">
+            Full name is required.
+          </div>
+        </div>
+        <div>
+          <label for="addressLine1">Address Line 1:</label>
+          <input type="text" id="addressLine1" formControlName="addressLine1">
+           <div *ngIf="formControls['addressLine1'].touched && formControls['addressLine1'].errors?.['required']" class="error">
+            Address is required.
+          </div>
+        </div>
+        <div>
+          <label for="city">City:</label>
+          <input type="text" id="city" formControlName="city">
+          <div *ngIf="formControls['city'].touched && formControls['city'].errors?.['required']" class="error">
+            City is required.
+          </div>
+        </div>
+        <div>
+          <label for="postalCode">Postal Code:</label>
+          <input type="text" id="postalCode" formControlName="postalCode">
+          <div *ngIf="formControls['postalCode'].touched && formControls['postalCode'].errors?.['required']" class="error">
+            Postal code is required.
+          </div>
+        </div>
+         <div>
+          <label for="country">Country:</label>
+          <input type="text" id="country" formControlName="country">
+          <div *ngIf="formControls['country'].touched && formControls['country'].errors?.['required']" class="error">
+            Country is required.
+          </div>
+        </div>
+
+        <button type="submit" [disabled]="isProcessing || checkoutForm.invalid">
+          {{ isProcessing ? 'Processing...' : 'Place Order' }}
+        </button>
+        <div *ngIf="orderError" class="error order-error-message">
+          {{ orderError }}
+        </div>
+      </form>
+    </div>
+     <a routerLink="/cart" *ngIf="cart.items.length > 0">&laquo; Back to Cart</a>
+  </div>
+
+  <ng-template #loadingCart>
+    <p>Loading cart details...</p>
+  </ng-template>
+</div>

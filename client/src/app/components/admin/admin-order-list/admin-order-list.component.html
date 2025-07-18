@@ -1,0 +1,52 @@
+<div class="admin-order-list-container">
+  <h2>Manage Orders</h2>
+
+  <div *ngIf="error" class="alert alert-danger">{{ error }}</div>
+
+  <!-- Placeholder for filtering UI -->
+  <!--
+  <div class="filter-controls">
+    <label for="statusFilter">Filter by Status:</label>
+    <select id="statusFilter" [(ngModel)]="filterStatus" (change)="applyFilter()">
+      <option value="">All</option>
+      <option value="pending">Pending</option>
+      <option value="processed">Processed</option>
+      <option value="shipped">Shipped</option>
+      <option value="delivered">Delivered</option>
+      <option value="canceled">Canceled</option>
+    </select>
+  </div>
+  -->
+
+  <table class="order-table" *ngIf="(orders$ | async) as orders; else loading">
+    <thead>
+      <tr>
+        <th>Order ID</th>
+        <th>Date</th>
+        <th>User ID</th> <!-- Or User Email/Name if available directly on Order model -->
+        <th>Total Amount</th>
+        <th>Status</th>
+        <th>Actions</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let order of orders">
+        <td>#{{ order.id.substring(0, 8) }}...</td>
+        <td>{{ order.orderDate | date:'medium' }}</td> <!-- More detailed date -->
+        <td>{{ order.userId.substring(0,8) }}...</td> <!-- Assuming userId is a GUID/long string -->
+        <td>{{ order.totalAmount | currency:'USD' }}</td>
+        <td class="status-{{ order.status | lowercase }}">{{ order.status }}</td>
+        <td class="actions-cell">
+          <a [routerLink]="['/admin/orders', order.id]" class="btn btn-view">View Details</a>
+        </td>
+      </tr>
+      <tr *ngIf="orders.length === 0">
+        <td colspan="6" class="text-center">No orders found.</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <ng-template #loading>
+    <p>Loading orders...</p>
+  </ng-template>
+</div>

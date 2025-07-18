@@ -1,0 +1,59 @@
+<div class="admin-order-detail-container">
+  <a routerLink="/admin/orders" class="back-link">&laquo; Back to Order List</a>
+
+  <div *ngIf="isLoading && !(order$ | async)" class="loading-bar">Loading order details...</div>
+  <div *ngIf="error" class="alert alert-danger">{{ error }}</div>
+  <div *ngIf="successMessage" class="alert alert-success">{{ successMessage }}</div>
+
+  <ng-container *ngIf="order$ | async as order; else notFoundOrLoading">
+    <div *ngIf="order">
+      <h2>Order Details: #{{ order.id.substring(0,8) }}...</h2>
+
+      <div class="order-info-grid">
+        <div class="info-item"><strong>Order ID:</strong> {{ order.id }}</div>
+        <div class="info-item"><strong>User ID:</strong> {{ order.userId }}</div>
+        <div class="info-item"><strong>Order Date:</strong> {{ order.orderDate | date:'full' }}</div>
+        <div class="info-item"><strong>Total Amount:</strong> {{ order.totalAmount | currency:'USD' }}</div>
+        <div class="info-item"><strong>Current Status:</strong> <span class="status-{{ order.status | lowercase }}">{{ order.status }}</span></div>
+      </div>
+
+      <div class="status-update-section">
+        <h3>Update Order Status</h3>
+        <form [formGroup]="statusUpdateForm" (ngSubmit)="onStatusUpdate()">
+          <select formControlName="status">
+            <option *ngFor="let status of orderStatuses" [value]="status">{{ status | titlecase }}</option>
+          </select>
+          <button type="submit" [disabled]="statusUpdateForm.invalid || isLoading" class="btn btn-update-status">
+            {{ isLoading ? 'Updating...' : 'Update Status' }}
+          </button>
+        </form>
+      </div>
+
+      <h3>Order Items</h3>
+      <table class="order-items-table">
+        <thead>
+          <tr>
+            <th>Product ID</th>
+            <th>Product Name</th>
+            <th>Quantity</th>
+            <th>Unit Price</th>
+            <th>Total Price</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr *ngFor="let item of order.items">
+            <td>{{ item.productId.substring(0,8) }}...</td>
+            <td>{{ item.productName || 'N/A' }}</td> <!-- Assuming productName is on OrderItem -->
+            <td>{{ item.quantity }}</td>
+            <td>{{ item.price | currency:'USD' }}</td> <!-- Assuming price on OrderItem is unit price -->
+            <td>{{ (item.price * item.quantity) | currency:'USD' }}</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </ng-container>
+
+  <ng-template #notFoundOrLoading>
+    <p *ngIf="!isLoading && !error">Order not found or could not be loaded.</p>
+  </ng-template>
+</div>

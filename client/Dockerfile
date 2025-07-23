@@ -9,6 +9,9 @@ RUN npm install
 # Angular source
 COPY /app ./
 
+# Nginx configuration
+COPY ["nginx.conf", "."]
+
 # npm build
 RUN npm run build -- --configuration production
 #endregion

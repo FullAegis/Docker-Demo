@@ -1,0 +1,34 @@
+<div class="product-list-container">
+  <h2>Our Products</h2>
+
+  <div class="filters">
+    <h3>Categories</h3>
+    <button (click)="filterByCategory(null)" [class.active]="!selectedCategoryId">All Products</button>
+    <ng-container *ngIf="categories$ | async as categories">
+      <button *ngFor="let category of categories"
+              (click)="filterByCategory(category.id)"
+              [class.active]="category.id === selectedCategoryId">
+        {{ category.name }}
+      </button>
+    </ng-container>
+  </div>
+
+  <div class="product-grid" *ngIf="products$ | async as products; else loading">
+    <div *ngIf="products.length === 0" class="no-products">
+      <p>No products found for this category.</p>
+    </div>
+
+    <div class="product-card" *ngFor="let product of products">
+      <a [routerLink]="['/products', product.id]">
+        <img [src]="product.imageUrl || 'https://via.placeholder.com/150?text=No+Image'" [alt]="product.name">
+        <h4>{{ product.name }}</h4>
+      </a>
+      <p class="price">{{ product.price | currency:'USD' }}</p>
+      <button class="add-to-cart-btn" (click)="addToCart(product)">Add to Cart</button>
+    </div>
+  </div>
+
+  <ng-template #loading>
+    <p>Loading products...</p>
+  </ng-template>
+</div>

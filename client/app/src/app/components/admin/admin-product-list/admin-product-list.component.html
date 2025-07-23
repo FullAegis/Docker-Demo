@@ -1,0 +1,45 @@
+<div class="admin-product-list-container">
+  <div class="list-header">
+    <h2>Manage Products</h2>
+    <a routerLink="/admin/products/new" class="btn btn-create">Create New Product</a>
+  </div>
+
+  <div *ngIf="error" class="alert alert-danger">{{ error }}</div>
+  <div *ngIf="successMessage" class="alert alert-success">{{ successMessage }}</div>
+
+  <table class="product-table" *ngIf="(products$ | async) as products; else loading">
+    <thead>
+      <tr>
+        <th>Image</th>
+        <th>Name</th>
+        <th>Price</th>
+        <th>Category ID</th>
+        <th>Brand ID</th>
+        <th>Actions</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let product of products">
+        <td>
+          <img [src]="product.imageUrl || 'https://via.placeholder.com/50?text=N/A'"
+               [alt]="product.name" class="product-thumbnail">
+        </td>
+        <td>{{ product.name }}</td>
+        <td>{{ product.price | currency:'USD' }}</td>
+        <td>{{ product.categoryId }}</td>
+        <td>{{ product.brandId || 'N/A' }}</td>
+        <td class="actions-cell">
+          <a [routerLink]="['/admin/products/edit', product.id]" class="btn btn-edit">Edit</a>
+          <button (click)="deleteProduct(product.id, product.name)" class="btn btn-delete">Delete</button>
+        </td>
+      </tr>
+      <tr *ngIf="products.length === 0">
+        <td colspan="6" class="text-center">No products found.</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <ng-template #loading>
+    <p>Loading products...</p>
+  </ng-template>
+</div>

@@ -1,0 +1,70 @@
+<div class="admin-product-form-container">
+  <h2>{{ isEditMode ? 'Edit Product' : 'Create New Product' }}</h2>
+  <a routerLink="/admin/products" class="back-link">&laquo; Back to Product List</a>
+
+  <div *ngIf="isLoading && isEditMode" class="loading-bar">Loading product details...</div>
+  <div *ngIf="error" class="alert alert-danger">{{ error }}</div>
+  <div *ngIf="successMessage" class="alert alert-success">{{ successMessage }}</div>
+
+  <form [formGroup]="productForm" (ngSubmit)="onSubmit()" *ngIf="!successMessage">
+    <div class="form-group">
+      <label for="name">Product Name:</label>
+      <input type="text" id="name" formControlName="name" class="form-control">
+      <div *ngIf="formControls['name'].touched && formControls['name'].errors?.['required']" class="error-feedback">
+        Name is required.
+      </div>
+    </div>
+
+    <div class="form-group">
+      <label for="description">Description:</label>
+      <textarea id="description" formControlName="description" class="form-control" rows="4"></textarea>
+    </div>
+
+    <div class="form-group">
+      <label for="price">Price (USD):</label>
+      <input type="number" id="price" formControlName="price" class="form-control" step="0.01">
+      <div *ngIf="formControls['price'].touched && formControls['price'].errors?.['required']" class="error-feedback">
+        Price is required.
+      </div>
+      <div *ngIf="formControls['price'].errors?.['min']" class="error-feedback">
+        Price must be greater than 0.
+      </div>
+    </div>
+
+    <div class="form-group">
+      <label for="imageUrl">Image URL:</label>
+      <input type="text" id="imageUrl" formControlName="imageUrl" class="form-control">
+      <!-- Consider adding URL validation pattern if needed -->
+    </div>
+
+    <div class="form-group">
+      <label for="categoryId">Category:</label>
+      <select id="categoryId" formControlName="categoryId" class="form-control">
+        <option value="" disabled>Select a Category</option>
+        <option *ngFor="let category of categories$ | async" [value]="category.id">
+          {{ category.name }}
+        </option>
+      </select>
+      <div *ngIf="formControls['categoryId'].touched && formControls['categoryId'].errors?.['required']" class="error-feedback">
+        Category is required.
+      </div>
+    </div>
+
+    <div class="form-group">
+      <label for="brandId">Brand (Optional):</label>
+      <select id="brandId" formControlName="brandId" class="form-control">
+        <option value="">Select a Brand (Optional)</option>
+        <option *ngFor="let brand of brands$ | async" [value]="brand.id">
+          {{ brand.name }}
+        </option>
+      </select>
+    </div>
+
+    <div class="form-actions">
+      <button type="submit" class="btn btn-submit" [disabled]="productForm.invalid || isLoading">
+        {{ isLoading ? 'Saving...' : (isEditMode ? 'Update Product' : 'Create Product') }}
+      </button>
+      <a routerLink="/admin/products" class="btn btn-cancel">Cancel</a>
+    </div>
+  </form>
+</div>

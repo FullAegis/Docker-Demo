@@ -1,0 +1,11 @@
+<nav>
+  <ul>
+    <li><a routerLink="/">Home</a></li>
+    <li><a routerLink="/products">Products</a></li>
+    <li *ngIf="!authService.isAuthenticated()"><a routerLink="/login">Login</a></li>
+    <li *ngIf="!authService.isAuthenticated()"><a routerLink="/register">Register</a></li>
+    <li *ngIf="authService.isAuthenticated()"><a routerLink="/profile">Profile</a></li>
+    <li *ngIf="authService.isAuthenticated()"><a routerLink="/order-history">My Orders</a></li>
+    <li *ngIf="authService.isAuthenticated()"><button (click)="logout()">Logout</button></li>
+  </ul>
+</nav>

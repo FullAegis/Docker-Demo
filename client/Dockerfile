@@ -26,5 +26,5 @@ RUN rm -rf /usr/share/nginx/html/* /etc/nginx/conf.d/default.conf
 COPY --from=build usr/src/app/nginx.conf  /etc/nginx/conf.d/default.conf
 COPY --from=build /usr/src/app/dist/candy-frontend /usr/share/nginx/html
 
-EXPOSE 80
+EXPOSE 8080
 #endregion

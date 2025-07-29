@@ -38,7 +38,8 @@ services:
       context: ./client
       dockerfile: Dockerfile
     ports:
-      - "4200:80"
+      #- "4200:80"
+      - "80:8080" # Maps container port 8080 (Nginx) to host port 80
     depends_on:
       - api
     networks:
